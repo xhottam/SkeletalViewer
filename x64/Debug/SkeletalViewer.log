@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  DrawDevice.cpp
+  Dynamixel.cpp
+f:\kinectic\c++\skeletalviewer\dynamixel.cpp(897): warning C4473: 'printf' : not enough arguments passed for format string
+  f:\kinectic\c++\skeletalviewer\dynamixel.cpp(897): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\kinectic\c++\skeletalviewer\dynamixel.cpp(897): note: the missing variadic argument 2 is required by format string '%i'
+f:\kinectic\c++\skeletalviewer\dynamixel.cpp(959): warning C4473: 'printf' : not enough arguments passed for format string
+  f:\kinectic\c++\skeletalviewer\dynamixel.cpp(959): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\kinectic\c++\skeletalviewer\dynamixel.cpp(959): note: the missing variadic argument 2 is required by format string '%i'
+f:\kinectic\c++\skeletalviewer\dynamixel.cpp(1111): warning C4474: 'printf' : too many arguments passed for format string
+  f:\kinectic\c++\skeletalviewer\dynamixel.cpp(1111): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  NuiImpl.cpp
+f:\kinectic\c++\skeletalviewer\transformarcoordenadas.h(5): fatal error C1083: Cannot open include file: 'Eigen\Eigen': No such file or directory
+  SerialPort.cpp
+  SkeletalViewer.cpp
+  transformarCoordenadas.cpp
+f:\kinectic\c++\skeletalviewer\transformarcoordenadas.h(5): fatal error C1083: Cannot open include file: 'Eigen\Eigen': No such file or directory
+  Generating Code...
